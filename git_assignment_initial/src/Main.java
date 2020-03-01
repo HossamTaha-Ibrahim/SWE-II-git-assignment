@@ -7,6 +7,7 @@ public class Main {
 			new TwoPowerN(),
 			new CircleCircumference(),
 			new SphereVoluum(),
+			new SphereArea(),
 	};
 	public static void main(String[] args) {
 		Topic mathTopic = new Topic();
