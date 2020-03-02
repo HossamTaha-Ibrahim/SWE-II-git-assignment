@@ -6,7 +6,7 @@ public class Main {
 			new ReallySimpleSubscriber(),
 			new TwoPowerN(),
 			new CircleCircumference(),
-			new SphereVoluum(),
+			new SphereVolume(),
 			new SphereArea(),
 		        new Fibonacci(),
 	};
