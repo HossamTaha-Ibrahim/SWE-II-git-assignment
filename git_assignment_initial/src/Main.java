@@ -8,6 +8,7 @@ public class Main {
 			new CircleCircumference(),
 			new SphereVoluum(),
 			new SphereArea(),
+		        new Fibonacci(),
 	};
 	public static void main(String[] args) {
 		Topic mathTopic = new Topic();
