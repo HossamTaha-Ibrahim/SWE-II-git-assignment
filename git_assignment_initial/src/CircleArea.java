@@ -1,12 +1,11 @@
-import java.util.Scanner;
 
-public class circleArea implements ISubscriber 
+public class CircleArea implements ISubscriber
 {
 	@Override
     public void notifySubscriber(String input) 
     {
 	double r = Double.parseDouble(input);
         double circleArea =  Math.PI * r * r;
-        System.out.println(circleArea );
+        System.out.println("Circle Area is: " +circleArea );
     }
 }
