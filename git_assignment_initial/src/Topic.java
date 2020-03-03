@@ -19,7 +19,8 @@ public class Topic {
 	
 	public void dispatchEvent(String input) {
 		for (ISubscriber sub : this.getSubscribers()) {
-			sub.notifySubscriber(input);
+			sub.notifySubscriber(input) ;
+
 		}
 	}
 }
