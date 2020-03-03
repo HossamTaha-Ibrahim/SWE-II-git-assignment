@@ -1,14 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-
   <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="false" project-jdk-name="11.0.4" project-jdk-type="JavaSDK">
-  </component>
-||||||| a722d6c
-  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="false" project-jdk-name="13" project-jdk-type="JavaSDK">
-  </component>
-=======
-  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="false" project-jdk-name="1.8" project-jdk-type="JavaSDK">
->>>>>>> 5019944fc536e6377e44a4b49b328fb56f791c29
     <output url="file://$PROJECT_DIR$/classes" />
   </component>
 </project>
